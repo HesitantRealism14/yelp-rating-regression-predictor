@@ -1,1 +1,1 @@
-# Yelp-Rating-Regression-Predictor
+# yelp-rating-regression-predictor
